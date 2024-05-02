@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-weight: bold;
+}
+.content {
+  color: blue;
+}
+#title {
+  background-color: blueviolet;
+}
+
+@media screen and (min-width: 900px) {
+  .content {
+    color: green;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "example-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "reverse-the-string": "^1.0.1"
+  }
+}
